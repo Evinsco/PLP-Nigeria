@@ -8,6 +8,4 @@ my_list.sort
 
 index = my_list.index(30)
 
-print(my_list)
-
 print(index)
